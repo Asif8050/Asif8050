@@ -4,24 +4,18 @@
 src="https://komarev.com/ghpvc/?username=Asif8050&label=Views&color=blue&style=plastic"
 alt="Asif8050" /> </p>
 
- <a href="https://www.linkedin.com/in/nafees-fatima-869253117">
-  <img align="left" alt="Asif Linkdein" width="22px"
-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
-/>
-</a>
-
 <a href="https://github.com/Asif8050">
   <img align="left" alt="Asif Github" width="22px"
 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<a href="https://www.facebook.com/profile.php?id=100010608183878">
+<a href="[Asif](https://www.facebook.com/asif.malil.9?mibextid=kFxxJD)">
   <img align="left" alt="Asif Facebook" width="22px"
 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"
 />
 </a>
 
-<a href="https://www.instagram.com/nafees5219/">
+<a href="[https://www.instagram.com/nafees5219/](https://www.instagram.com/__finn___balor?igsh=MThhZmJmdm55aDJ5cw==)">
   <img align="left" alt="Asif Instagram" width="22px"
 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"
 />
@@ -34,8 +28,7 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"
 - 🌱 I’m currently learning to build Testcases
 - 😄 Pronouns: He/Him
 
-- [![Linkedin: imthepk](https://img.shields.io/badge/-Nafees-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nafees-fatima-869253117)](https://www.linkedin.com/in/nafees-fatima-869253117)
-[![GitHub iampawan](https://img.shields.io/github/followers/nafteeq?label=follow&style=social)](https://github.com/nafteeq)
+[![GitHub asif](https://img.shields.io/github/followers/Asif8050?label=follow&style=social)](https://github.com/Asif8050)
 
 
 
